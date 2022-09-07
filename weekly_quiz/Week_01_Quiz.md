@@ -49,7 +49,7 @@ If you don't see `(base)`, activate the base environment with:
     
 5. Create a new virtual environment using the requirements file:
 
-        (base) $ conda env create -f docs/requirements.yml
+        (base) $ conda env create -f requirements.yml
 
 6. Activate the new environment
 
